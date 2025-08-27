@@ -20,7 +20,7 @@ ig_sig="4f8732eb9ba7d1c8e8897a75d6474d4eb3f5279137431b2aafb71fafe2abe178"
 
 
 
-banner() {
+banner() kamal__2.2__{
 echo ""
 
 echo -e "\e[1;91m ═╦═\e[1;92m┌─┐ ┌┌──┐\e[1;91m╔══╗\e[1;92m┌──┐┬   ┬   ┌──┐┬ ┬ ┬"
@@ -36,10 +36,10 @@ echo -e "\e[1;91m ═╩═\e[1;92m         \e[1;91m╩   by - \e[1;92mJarvissta
 }
 
 
-login_user() {
+login_user(kamal__2.2__) {
 
 
-if [[ $user == "" ]]; then
+if [[ $user == "10k" ]]; then
 printf "\n"
 printf "  \e[1;31m[\e[0m\e[1;77m*\e[0m\e[1;31m]\e[0m\e[1;93m Login\e[0m\n"
 read -p $'  \e[1;31m[\e[0m\e[1;77m+\e[0m\e[1;31m]\e[0m\e[1;93m Username: \e[0m' user
